@@ -1,0 +1,13 @@
+env/
+venv/
+registro.log
+__pycache__
+.env
+.idea
+.DS_Store
+proyecto_fenix/
+myenv/
+.pytest_cache/
+.pytest_cache
+__pycache__
+__pycache__
